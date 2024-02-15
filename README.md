@@ -1,4 +1,7 @@
 # pandas-challenge
+
+Please use file PyCitySchools_starter_practice.ipynb
+
 Repository for Module 4
 Assignment to act as the Cheif Data Scientist for the PyCity School District. 
 The data analysis will help teh mayor make strategic decisions regarding the future school budgets and priorities.
